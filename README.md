@@ -1,1 +1,193 @@
-# JOIN
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dezz✘Mods - JOIN CHANEL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #0f0f0f;
+            color: white;
+        }
+
+        /* INTRO LOADING */
+        #intro {
+            position: fixed; inset: 0; background: black;
+            display: flex; flex-direction: column;
+            justify-content: center; align-items: center;
+            z-index: 9999;
+            animation: fadeOut 3s ease forwards;
+            animation-delay: 4.5s;
+        }
+        @keyframes fadeOut { to { opacity:0; visibility:hidden; } }
+
+        /* LOGO INTRO (diperkecil) */
+        .logo-spin {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+        }
+
+        .typing {
+            width:1;
+            overflow:hidden;
+            white-space:nowrap;
+            border-right:3px solid #0f0;
+            font-size:25px;
+            margin-top:5px;
+            animation: typing 2s steps(100,end) forwards, blink .5s infinite;
+        }
+        @keyframes typing { to { width:398px; } }
+        @keyframes blink { 50% { border-color:transparent; } }
+
+        .dots span {
+            display:inline-block;
+            width:10px; height:10px; background:white;
+            border-radius:100%; margin:5px;
+            animation:bounce 1.5s infinite;
+        }
+        .dots span:nth-child(2){ animation-delay:0.2s; }
+        .dots span:nth-child(3){ animation-delay:0.4s; }
+        @keyframes bounce {
+            0%,10%,20%,80%,100% { transform:scale(0); }
+            50% { transform:scale(1); }
+        }
+
+        #main {
+            padding:20px;
+            display:none;
+            animation:fadeIn 1s ease forwards;
+        }
+        @keyframes fadeIn { from{opacity:0;} to{opacity:1;} }
+
+        header {
+            background: linear-gradient(90deg, #8000ff, #ff0080);
+            padding: 25px;
+            text-align: center;
+            font-size: 26px;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .section {
+            background: #1b1b1b;
+            padding: 20px;
+            margin-top: 15px;
+            border-radius: 10px;
+            border: 1px solid #333;
+        }
+        .section h2 {
+            border-left: 5px solid #ff00c8;
+            padding-left: 10px;
+        }
+        a {
+            color: #00b7ff;
+            word-break: break-all;
+        }
+        .button {
+            display: block;
+            background: #ff00a6;
+            padding: 12px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 10px 0;
+            text-decoration: none;
+            font-weight: bold;
+            color: white;
+        }
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            padding: 20px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+<!-- INTRO -->
+<div id="intro">
+    <img src="https://files.catbox.moe/5pf5s6.jpg" class="logo-spin">
+    <div class="typing">𝘿𝙚𝙯𝙕✘𝙈𝙊𝘿𝙎 ━ JOIN MEMBER Loading...</div>
+    <div class="dots"><span></span><span></span><span></span></div>
+</div>
+
+<header>Dezz✘Mods — CHEATS, MODS FREE JOIN GO</header>
+
+<div class="container" id="main">
+
+    <div class="section">
+        <h2>SEBLUM MASUK Dibaca Dulu</h2>
+        <ul>
+            <li>✔ Free Cheats (No Buy / No Get)</li>
+            <li>✔ Anti BL / BAN</li>
+            <li>✔ 100% Free</li>
+            <li>✔ Anti Ribet</li>
+            <li>✔ Panel/MOD Ready</li>
+            <li>✔ File / HOLO</li>
+            <li>✔ OBB New Update</li>
+            <li>✔ Setup=Tutorial</li>
+            <li>✔ Support Semua Device</li>
+            <li>✔ Update Setiap Hari</li>
+            <li>✔ Root & Non Root</li>
+            <li>✔ Anti Error</li>
+            <li>✔ Anti Lag Optimization</li>
+            <li>✔ Fix Bug Engine</li>
+            <li>✔ Masih banyak lainya mending buruan join</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>📌 Join Telegram</h2>
+        <a class="button" href="https://t.me/+nmDgMfjt-t9jYzA1">Channel 1</a>
+        <a class="button" href="https://t.me/+Xbx_nYo5CiU2NTBl">Channel 2</a>
+    </div>
+
+    <div class="section">
+        <h2>📌 Join Saluran WhatsApp</h2>
+        <a class="button" href="https://whatsapp.com/channel/0029Vb7Gl23EFeXuLGF1yB1G">WhatsApp Channel</a>
+    </div>
+
+    <div class="section">
+        <h2>💝 Donasi Support</h2>
+        <a class="button" href="https://sociabuzz.com/dezzreal">Sociabuzz Donasi</a>
+    </div>
+
+    <div class="section">
+        <h2>📱 Sosial Media</h2>
+        <p>TikTok:</p>
+        <a href="https://tiktok.com/@dezz_realmods">tiktok.com/@dezz_realmods</a>
+
+        <p>YouTube:</p>
+        <a href="https://youtube.com/@trioshorts145?si=4sL0IFJR2DZq6DR0">youtube.com/@trioshorts145</a>
+    </div>
+
+    <div class="section">
+        <h2>🌐 Produk Digital</h2>
+        <a href="https://lynk.id/dezzreal">lynk.id/dezzreal</a>
+    </div>
+
+    <div class="section">
+        <h2>🌐 Website Key</h2>
+        <a href="https://dezzmodz.github.io/getkey/">dezzmodz.github.io/getkey/</a>
+    </div>
+
+</div>
+
+<footer>𝘿𝙚𝙯𝙕✘𝙈𝙊𝘿𝙎</footer>
+<footer>© 2025 Dezz✘Mods — OPEN MEMBER</footer>
+
+<script>
+setTimeout(()=>{
+    document.getElementById("intro").style.display="none";
+    document.getElementById("main").style.display="block";
+},5000);
+</script>
+
+</body>
+</html>
